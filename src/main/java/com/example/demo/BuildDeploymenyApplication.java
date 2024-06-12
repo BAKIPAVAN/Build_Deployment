@@ -8,7 +8,7 @@ public class BuildDeploymenyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BuildDeploymenyApplication.class, args);
-		System.out.println("Started.......");
+		System.out.println("Started.......Man");
 	}
 
 }
